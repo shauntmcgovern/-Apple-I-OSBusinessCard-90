@@ -2,8 +2,8 @@
 //  ViewController.h
 //  portInter
 //
-//  Created by NEIU Developer on 12/10/14.
-//  Copyright (c) 2014 NEIU Developer. All rights reserved.
+//  Hashbang! Games a example of Business Card display on iOS
+//  Leads to the application being paid to complete by Apple & Co. called π
 //
 
 #import <UIKit/UIKit.h>
