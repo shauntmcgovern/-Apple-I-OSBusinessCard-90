@@ -27,7 +27,7 @@ NSString* eM;
     NSURLRequest *requestObj = [NSURLRequest requestWithURL:url];
     [_phWebView loadRequest:requestObj];
     
-    NSString *fullURL2 = @"http://cs.neiu.edu/~smcgover";
+    NSString *fullURL2 = @"https://www.linkedin.com/in/shaun-mcgovern-oophtml5css3jquery2/";
     NSURL *url2 = [NSURL URLWithString:fullURL2];
     NSURLRequest *requestObj2 = [NSURLRequest requestWithURL:url2];
     [_jaWebView loadRequest:requestObj2];
